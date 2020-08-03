@@ -1,0 +1,15 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-fdascanner-dev-213423-authRole",
+            "UnauthRoleArn": "arn:aws:iam::114572636741:role/amplify-fdascanner-dev-213423-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::114572636741:role/amplify-fdascanner-dev-213423-authRole",
+            "Region": "us-east-1",
+            "DeploymentBucketName": "amplify-fdascanner-dev-213423-deployment",
+            "UnauthRoleName": "amplify-fdascanner-dev-213423-unauthRole",
+            "StackName": "amplify-fdascanner-dev-213423",
+            "StackId": "arn:aws:cloudformation:us-east-1:114572636741:stack/amplify-fdascanner-dev-213423/d18bd8c0-d529-11ea-9eef-0ee5b554e1bc",
+            "AmplifyAppId": "d3r1u641y93g2y"
+        }
+    }
+}
